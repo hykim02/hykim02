@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/hykim02"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <!--
 **hykim02/hykim02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
